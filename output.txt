@@ -1,0 +1,46 @@
+.
+├── config.json
+├── includes
+│   ├── config.php
+│   └── helpers.php
+├── output.txt
+├── public
+│   ├── buy.php
+│   ├── css
+│   │   ├── bootstrap.min.css
+│   │   └── styles.css
+│   ├── fonts
+│   │   ├── glyphicons-halflings-regular.eot
+│   │   ├── glyphicons-halflings-regular.svg
+│   │   ├── glyphicons-halflings-regular.ttf
+│   │   ├── glyphicons-halflings-regular.woff
+│   │   └── glyphicons-halflings-regular.woff2
+│   ├── history.php
+│   ├── img
+│   │   └── logo.png
+│   ├── index.php
+│   ├── js
+│   │   ├── bootstrap.min.js
+│   │   ├── jquery-1.11.3.min.js
+│   │   └── scripts.js
+│   ├── login.php
+│   ├── logout.php
+│   ├── quote.php
+│   ├── register.php
+│   └── sell.php
+|
+└── views
+    ├── apology.php
+    ├── buy_form.php
+    ├── dump.php
+    ├── footer.php
+    ├── header.php
+    ├── history_display.php
+    ├── login_form.php
+    ├── portfolio.php
+    ├── quote_form.php
+    ├── quote_result.php
+    ├── register_form.php
+    └── sell_form.php
+
+32 directories, 230 files
